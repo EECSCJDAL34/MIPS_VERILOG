@@ -1,5 +1,6 @@
 # MIPS_VERILOG
 
+This repository is a compilation of the various programs developed for EECS 2021: Computer Organization.
 
 Labs: 	
 
